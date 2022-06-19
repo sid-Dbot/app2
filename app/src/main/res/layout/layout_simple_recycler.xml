@@ -5,12 +5,13 @@
     android:layout_margin="10dp"
     android:layout_height="wrap_content"
     android:orientation="vertical"
-    android:background="#775555">
+    android:background="#77111111">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAlignment="center"
+        android:id="@+id/title"
         android:text="Zzzzzzz"
         />
 
